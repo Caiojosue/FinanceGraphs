@@ -62,6 +62,9 @@ streamlit run nomedoarquivo.py
 
 # Rodando o Projeto
 
+https://github.com/user-attachments/assets/89ad809a-42d8-46e6-8df8-8ba61a849ba5
+
+
 
 # Resultados Esperados
 
